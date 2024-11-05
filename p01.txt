@@ -6,4 +6,4 @@ git status -> to check files.
 git commit -m "message of edited changes" -> to commit changes to the file.
 got commit -a -m " message" -> to skip the staging stage to push the file
 Second bratch initialized
-
+..............................
